@@ -1,0 +1,8 @@
+--------------Receipt--------------
+Name: PRIANKA ROY
+Age: 55
+Ward: 1022
+Bill: 50000.00
+Admitted since: 24-Sep-20 12:00:00 AM
+-----------------------------------
+Thursday, 24 September 2020
